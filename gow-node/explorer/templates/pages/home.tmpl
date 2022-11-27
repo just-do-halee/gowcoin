@@ -1,0 +1,17 @@
+{{define "home"}}
+<!DOCTYPE html>
+<html lang="en">
+    {{template "head" .PageTitle}}
+    <body>
+        {{template "header" .PageTitle}}
+        <main>
+            {{range $i, $vault  := .Vaults}}
+                <h3>Height: {{$i}}</h1>
+                {{template "vault" $vault}}
+                <hr />
+            {{end}}
+        </main>
+        {{template "footer"}}
+    </body>
+</html>
+{{end}}

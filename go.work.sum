@@ -1,0 +1,12 @@
+github.com/goccy/go-reflect v1.2.0 h1:O0T8rZCuNmGXewnATuKYnkL0xm6o8UNOJZd/gOkb9ms=
+github.com/goccy/go-reflect v1.2.0/go.mod h1:n0oYZn8VcV2CkWTxi8B9QjkCoq6GTtCEdfmR66YhFtE=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/just-do-halee/opt v0.4.1 h1:KwDIm7b0kDRcnmIRsLNwngCRGx/sJIlHFWZ19SFZNtA=
+github.com/just-do-halee/opt v0.4.1/go.mod h1:1ihfPsfvzOLfCwr/b1/+OVyB++Y1VlX1qUo46I6YxGE=
+github.com/just-do-halee/refl v0.3.0 h1:V+YWO1RpYqzuQPOU8zYKFCpMJoO2kcj659LYhL7nte0=
+github.com/just-do-halee/refl v0.3.0/go.mod h1:rglpPmCoshqafK4OuIito8Yc25nb3YXVVkhAQ/EVZ1U=
+go.etcd.io/bbolt v1.3.6 h1:/ecaJf0sk1l4l6V4awd65v2C3ILy7MSj+s/x1ADCIMU=
+go.etcd.io/bbolt v1.3.6/go.mod h1:qXsaaIqmgQH0T+OPdb99Bf+PKfBBQVAdyD6TY9G8XM4=
+golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d h1:L/IKR6COd7ubZrs2oTnTi73IhgqJ71c9s80WsQnh0Es=
+golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=

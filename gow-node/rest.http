@@ -1,0 +1,11 @@
+GET http://localhost:4000/vaults
+
+
+POST http://localhost:4000/vaults
+Content-Type: application/json
+
+{
+    "Message": "My Vault Description"
+}
+
+GET http://localhost:4000/vaults/0

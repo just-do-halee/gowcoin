@@ -11,7 +11,7 @@ type Password uint64
 // SupervisorLevelInfo is the information of a vault that
 // can be changed by the supervisor.
 type SupervisorLevelInfo struct {
-	Owner      common.Hash
-	LockedTime LockedTime
-	Password   Password
+	Owner      common.Hash `json:"owner"`
+	LockedTime LockedTime  `json:"locked_time"`
+	Password   Password    `json:"password"`
 }
